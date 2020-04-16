@@ -1,28 +1,28 @@
-Tanıl Serbes - Portfolio
-
+## TANIL SERBES - Portfolio
+-------
 This is my learning journey at Makers Academy.
-
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
 
-Click through to any of the following links for more detail.
+Click through to any of the Week.md links for more detail.
 
-WEEK1
+#### My Goals
+##### 1.
+I can make anything.     
+I can TDD anything.   
+I can program fluently.    
+I can debug anything.   
+I can model anything.   
+I can refactor anything.    
+I have a methodical approach to solving problems.
 
-Learning Goal: [insert here]
+##### 2.                                              
+I'm equipped for long term growth.  
+I manage my own wellbeing.  
+I can learn anything by myself.  
 
-Reflect: What does this learning goal mean and why is it relevant?
-
-##Learning Plan
-
-###Learning objectives: 
-Describe some basic OO principles like encapsulation, SRP
-
-###Evidence: How will you know you achieved it?
-Write everything down and tell your group
-
-###Validate: How will you know how well you did?
-ask coach
-
-Learning resources and strategies
-Link(s) to evidence : add resources you work out
-
+##### 3.
+I help my teams succeed.   
+I use an agile product development process.  
+I write code that is easy to change.  
+I can justify the way I work.  
+I grow collaboratively.
